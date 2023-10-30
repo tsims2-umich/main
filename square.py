@@ -1,3 +1,3 @@
 def square(a):
-  answer = a*a
+  answer = a**2.
   return answer
